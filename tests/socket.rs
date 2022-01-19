@@ -1151,6 +1151,11 @@ test!(quickack, set_quickack(false));
     feature = "all",
     any(target_os = "android", target_os = "fuchsia", target_os = "linux")
 ))]
+test!(thin_dupack, set_thin_dupack(true));
+#[cfg(all(
+    feature = "all",
+    any(target_os = "android", target_os = "fuchsia", target_os = "linux")
+))]
 test!(thin_linear_timeouts, set_thin_linear_timeouts(true));
 test!(linger, set_linger(Some(Duration::from_secs(10))));
 test!(

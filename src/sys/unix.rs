@@ -1385,6 +1385,56 @@ impl crate::Socket {
         }
     }
 
+    /// Get the value of the `TCP_THIN_DUPACK` option on this socket.
+    ///
+    /// For more information about this option, see [`set_thin_dupack`].
+    ///
+    /// [`set_thin_dupack`]: Socket::set_thin_dupack
+    #[cfg(all(
+        feature = "all",
+        any(target_os = "android", target_os = "fuchsia", target_os = "linux")
+    ))]
+    #[cfg_attr(
+        docsrs,
+        doc(cfg(all(
+            feature = "all",
+            any(target_os = "android", target_os = "fuchsia", target_os = "linux")
+        )))
+    )]
+    pub fn thin_dupack(&self) -> io::Result<bool> {
+        unsafe {
+            getsockopt::<Bool>(self.as_raw(), libc::IPPROTO_TCP, libc::TCP_THIN_DUPACK)
+                .map(|dupack| dupack != 0)
+        }
+    }
+
+    /// Set the value of the `TCP_THIN_DUPACK` option on this socket.
+    ///    
+    /// If set, the kernel will dynamically detect a thin-stream connection if there are less than four packets in flight.
+    /// With less than four packets in flight the normal TCP fast retransmission will not be effective.
+    /// The kernel will modify the retransmission to fast retransmit on the first dup ACK, instead of waiting on three duplicate acks.
+    #[cfg(all(
+        feature = "all",
+        any(target_os = "android", target_os = "fuchsia", target_os = "linux")
+    ))]
+    #[cfg_attr(
+        docsrs,
+        doc(cfg(all(
+            feature = "all",
+            any(target_os = "android", target_os = "fuchsia", target_os = "linux")
+        )))
+    )]
+    pub fn set_thin_dupack(&self, dupack: bool) -> io::Result<()> {
+        unsafe {
+            setsockopt(
+                self.as_raw(),
+                libc::IPPROTO_TCP,
+                libc::TCP_THIN_DUPACK,
+                dupack as c_int,
+            )
+        }
+    }
+
     /// Get the value of the `TCP_THIN_LINEAR_TIMEOUTS` option on this socket.
     ///
     /// For more information about this option, see [`set_thin_linear_timeouts`].
