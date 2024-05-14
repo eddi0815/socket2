@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-14T19:02:11.903Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="266hizVt-A7_odEeZOsx" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-14T19:34:27.772Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="nj4rvPFJMPvMoHb8ZbTf" version="24.4.0" type="github">
   <diagram name="Seite-1" id="WJq2rbRE4auTeuLJKy2o">
     <mxGraphModel dx="1344" dy="1186" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -216,6 +216,24 @@
           <mxGeometry x="0.1997" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="EVFdEpypzMLz57Z1qd-0-23" value="ST" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="40" y="500" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EVFdEpypzMLz57Z1qd-0-26" value="BR" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="38" y="540" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="EVFdEpypzMLz57Z1qd-0-27" value="WS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="38" y="580" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EVFdEpypzMLz57Z1qd-0-28" value="Schornstein " style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EVFdEpypzMLz57Z1qd-0-29" value="Brennraum" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="538" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EVFdEpypzMLz57Z1qd-0-30" value="Wartungsschacht&lt;br&gt;(Steigleitungen Heizung und Wasser)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="580" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
