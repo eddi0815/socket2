@@ -135,8 +135,8 @@
         </mxCell>
         <mxCell id="BfFW0c4Qb9V58yHOBqm7-11" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="400" as="sourcePoint" />
-            <mxPoint x="220" y="280" as="targetPoint" />
+            <mxPoint x="210" y="400" as="sourcePoint" />
+            <mxPoint x="210" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BfFW0c4Qb9V58yHOBqm7-12" value="&lt;div&gt;1,75&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BfFW0c4Qb9V58yHOBqm7-11">
@@ -169,7 +169,7 @@
           <mxGeometry x="200" y="160" width="70" height="15" as="geometry" />
         </mxCell>
         <mxCell id="BfFW0c4Qb9V58yHOBqm7-21" value="Fenster" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="190" y="497.5" width="70" height="15" as="geometry" />
+          <mxGeometry x="200" y="497.5" width="70" height="15" as="geometry" />
         </mxCell>
         <mxCell id="BfFW0c4Qb9V58yHOBqm7-22" value="Fenster" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="565" y="600" width="70" height="15" as="geometry" />
@@ -194,6 +194,12 @@
         </mxCell>
         <mxCell id="BfFW0c4Qb9V58yHOBqm7-30" value="Wartungsschacht&lt;br&gt;(Steigleitungen Heizung, Zugang zum Heizungskeller)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="74.5" y="320" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BfFW0c4Qb9V58yHOBqm7-31" value="Fenster" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="720" y="342.5" width="70" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="BfFW0c4Qb9V58yHOBqm7-32" value="Fenster" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="200" y="324" width="70" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
