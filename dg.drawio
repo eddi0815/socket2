@@ -104,7 +104,7 @@
           <mxGeometry x="510" y="80" width="210" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4Ki8aTBxuD5668MgcmTE-35" value="Der Kanal dient dazu die Leitungen aus dem WS in den Kniestock zu legen" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="23" y="285" width="157" height="35" as="geometry" />
+          <mxGeometry x="25.5" y="357.5" width="157" height="35" as="geometry" />
         </mxCell>
         <mxCell id="4Ki8aTBxuD5668MgcmTE-36" value="Fenster" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="600" width="70" height="15" as="geometry" />
@@ -126,6 +126,12 @@
         </mxCell>
         <mxCell id="4Ki8aTBxuD5668MgcmTE-42" value="Fenster" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="200" y="500" width="70" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ki8aTBxuD5668MgcmTE-43" value="WS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="25.5" y="297.5" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ki8aTBxuD5668MgcmTE-44" value="Wartungsschacht&lt;br&gt;(Steigleitungen Heizung, Zugang zum Heizungskeller)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="77.5" y="297.5" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
