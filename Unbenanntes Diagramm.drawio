@@ -189,6 +189,12 @@
         <mxCell id="BfFW0c4Qb9V58yHOBqm7-28" value="Tür" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="270" width="60" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="BfFW0c4Qb9V58yHOBqm7-29" value="WS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="22.5" y="320" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BfFW0c4Qb9V58yHOBqm7-30" value="Wartungsschacht&lt;br&gt;(Steigleitungen Heizung, Zugang zum Heizungskeller)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="74.5" y="320" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
