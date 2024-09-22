@@ -1217,23 +1217,23 @@
         <mxCell id="77hK2U9cgVGzca_YEiAG-364" value="Temperaturfühler" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="244" y="240" width="116" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="77hK2U9cgVGzca_YEiAG-365" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="680" y="780" width="20" height="20" as="geometry" />
+        <mxCell id="77hK2U9cgVGzca_YEiAG-365" value="" style="group;rotation=-180;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="170" y="660" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="77hK2U9cgVGzca_YEiAG-366" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="77hK2U9cgVGzca_YEiAG-365">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="10" y="20" as="sourcePoint" />
-            <mxPoint x="10" as="targetPoint" />
+            <mxPoint x="10" as="sourcePoint" />
+            <mxPoint x="10" y="20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="77hK2U9cgVGzca_YEiAG-367" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="77hK2U9cgVGzca_YEiAG-365">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="20" y="5" as="sourcePoint" />
-            <mxPoint y="5" as="targetPoint" />
+            <mxPoint y="15" as="sourcePoint" />
+            <mxPoint x="20" y="15" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="77hK2U9cgVGzca_YEiAG-368" value="" style="group;rotation=-180;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="340" y="680" width="20" height="20" as="geometry" />
+          <mxGeometry x="170" y="736" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="77hK2U9cgVGzca_YEiAG-369" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="77hK2U9cgVGzca_YEiAG-368">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1350,6 +1350,60 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="77hK2U9cgVGzca_YEiAG-388" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="77hK2U9cgVGzca_YEiAG-385">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20.189999999999998" as="sourcePoint" />
+            <mxPoint x="10" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="77hK2U9cgVGzca_YEiAG-389" value="" style="endArrow=none;html=1;rounded=0;jumpSize=6;strokeWidth=4;fillColor=#f8cecc;strokeColor=#b85450;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="760" as="sourcePoint" />
+            <mxPoint x="80" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="77hK2U9cgVGzca_YEiAG-390" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="70" y="780" width="20.189999999999998" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="77hK2U9cgVGzca_YEiAG-391" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="77hK2U9cgVGzca_YEiAG-390">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10.189999999999998" y="30" as="sourcePoint" />
+            <mxPoint x="10.189999999999998" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="77hK2U9cgVGzca_YEiAG-392" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="77hK2U9cgVGzca_YEiAG-390">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10.189999999999998" y="10" as="sourcePoint" />
+            <mxPoint as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="77hK2U9cgVGzca_YEiAG-393" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="77hK2U9cgVGzca_YEiAG-390">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20.189999999999998" as="sourcePoint" />
+            <mxPoint x="10" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="77hK2U9cgVGzca_YEiAG-394" value="" style="endArrow=none;html=1;rounded=0;jumpSize=6;strokeWidth=4;fillColor=#a0522d;strokeColor=#6D1F00;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="19.599999999999994" y="760" as="sourcePoint" />
+            <mxPoint x="19.599999999999994" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="77hK2U9cgVGzca_YEiAG-395" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="10" y="780" width="20.189999999999998" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="77hK2U9cgVGzca_YEiAG-396" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="77hK2U9cgVGzca_YEiAG-395">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10.189999999999998" y="30" as="sourcePoint" />
+            <mxPoint x="10.189999999999998" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="77hK2U9cgVGzca_YEiAG-397" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="77hK2U9cgVGzca_YEiAG-395">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10.189999999999998" y="10" as="sourcePoint" />
+            <mxPoint as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="77hK2U9cgVGzca_YEiAG-398" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="77hK2U9cgVGzca_YEiAG-395">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="20.189999999999998" as="sourcePoint" />
             <mxPoint x="10" y="10" as="targetPoint" />
