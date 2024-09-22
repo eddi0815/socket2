@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.12">
   <diagram name="Seite-1" id="sB4p62nrwVd86XO2K_Cy">
-    <mxGraphModel dx="1863" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2899" dy="1622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -359,7 +359,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="77hK2U9cgVGzca_YEiAG-124" value="" style="group;rotation=-90;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-440" y="65" width="60" height="40" as="geometry" />
+          <mxGeometry x="-440" y="90" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="77hK2U9cgVGzca_YEiAG-125" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="77hK2U9cgVGzca_YEiAG-124">
           <mxGeometry x="10" y="-10" width="40" height="60" as="geometry" />
@@ -371,7 +371,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="77hK2U9cgVGzca_YEiAG-127" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-435" y="135" width="40" height="85" as="geometry" />
+          <mxGeometry x="-435" y="160" width="40" height="85" as="geometry" />
         </mxCell>
         <mxCell id="77hK2U9cgVGzca_YEiAG-116" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="77hK2U9cgVGzca_YEiAG-127">
           <mxGeometry width="40" height="60" as="geometry" />
@@ -568,14 +568,14 @@
         <mxCell id="77hK2U9cgVGzca_YEiAG-179" value="&lt;div&gt;Membranaus-&lt;/div&gt;&lt;div&gt;dehnungsgefäß&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-737" y="190" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="77hK2U9cgVGzca_YEiAG-180" value="&lt;div&gt;Rücklauf&lt;/div&gt;&lt;div&gt;Vorlauf&lt;/div&gt;&lt;div&gt;Kaltwasser&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-380" y="15" width="80" height="30" as="geometry" />
+        <mxCell id="77hK2U9cgVGzca_YEiAG-180" value="&lt;div&gt;Rücklauf&lt;/div&gt;&lt;div&gt;Vorlauf&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Kaltwasser&lt;br&gt;&lt;/div&gt;&lt;div&gt;Warmwasser&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="25" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="77hK2U9cgVGzca_YEiAG-181" value="Schmutzfänger" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-380" y="65" width="80" height="30" as="geometry" />
+          <mxGeometry x="-380" y="90" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="77hK2U9cgVGzca_YEiAG-182" value="&lt;div&gt;Schlammabscheider&lt;/div&gt;&lt;div&gt;mit&lt;/div&gt;&lt;div&gt;Magnetitabscheider&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-380" y="145" width="80" height="30" as="geometry" />
+          <mxGeometry x="-380" y="170" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="77hK2U9cgVGzca_YEiAG-183" value="Heizkreis" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-563" y="5" width="80" height="30" as="geometry" />
@@ -1415,6 +1415,12 @@
         </mxCell>
         <mxCell id="77hK2U9cgVGzca_YEiAG-448" value="EKA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-318.19" y="976" width="48" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="77hK2U9cgVGzca_YEiAG-449" value="" style="endArrow=none;html=1;rounded=0;jumpSize=6;strokeWidth=4;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-380" y="61" as="sourcePoint" />
+            <mxPoint x="-440" y="60.579999999999984" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
